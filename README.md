@@ -1,6 +1,7 @@
 # Wardial
 
 [![task1](https://github.com/afroCoderHanane/wardial/actions/workflows/tests-task1.yml/badge.svg)](https://github.com/afroCoderHanane/wardial/actions/workflows/tests-task1.yml)
+[![task2](https://github.com/afroCoderHanane/wardial/actions/workflows/tests-task2.yml/badge.svg)](https://github.com/afroCoderHanane/wardial/actions/workflows/tests-task2.yml)
 
 
 
